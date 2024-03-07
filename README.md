@@ -1,6 +1,9 @@
+
 # Calorie Counter
 
 > This is an exercise from Free code camp to display a calorie counter for the people who love the fit life and health care.
+
+![](/image/calorie_counter.png)
 
 
 ## Built With
@@ -11,7 +14,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://scintillating-nougat-f542c6.netlify.app/)
 
 
 ## Getting Started
