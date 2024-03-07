@@ -20,7 +20,7 @@
 To get a local copy up and running follow these simple example steps.
 
 ````
-$git clone
+$git clone https://github.com/jdbs9514/Calorie-Counter.git
 ````
 ## Authors
 
